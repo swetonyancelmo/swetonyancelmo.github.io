@@ -21,11 +21,6 @@ Este é o repositório do meu portfólio pessoal, desenvolvido com foco em mobil
 
 1. Clique no lado superior direito no link da Vercel
 
-## 💡 Observações
-
-- As imagens das tecnologias mantêm suas cores originais, independente do tema escolhido.
-- O projeto é totalmente responsivo e pode ser visualizado em qualquer dispositivo.
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
