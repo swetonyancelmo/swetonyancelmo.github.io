@@ -19,11 +19,7 @@ Este é o repositório do meu portfólio pessoal, desenvolvido com foco em mobil
 
 ## 📱 Como visualizar
 
-1. Faça o clone deste repositório:
-   ```
-   git clone https://github.com/swetonyancelmo/swetonyancelmo.github.io.git
-   ```
-2. Abra o arquivo `index.html` no seu navegador.
+1. Clique no lado superior direito no link da Vercel
 
 ## 💡 Observações
 
