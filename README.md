@@ -1,1 +1,39 @@
-# swetonyancelmo.github.io
+# Portfólio Pessoal - Swetony Ancelmo
+
+Este é o repositório do meu portfólio pessoal, desenvolvido com foco em mobile first, apresentando minhas habilidades, experiências e projetos na área de desenvolvimento front-end.
+
+## ✨ Funcionalidades
+
+- **Layout responsivo:** Interface adaptada para dispositivos móveis e desktops.
+- **Modo claro e escuro:** Alterne entre temas para melhor experiência visual.
+- **Seção Sobre:** Explicação sobre lógica de programação, JavaScript e carreira front-end.
+- **Tecnologias:** Exibição das principais tecnologias que utilizo.
+- **Download de Currículo:** Botão para baixar meu currículo em PDF.
+- **Contato:** Formulário para envio de mensagens.
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3 (com abordagem mobile first)
+- JavaScript
+
+## 📱 Como visualizar
+
+1. Faça o clone deste repositório:
+   ```
+   git clone https://github.com/swetonyancelmo/swetonyancelmo.github.io.git
+   ```
+2. Abra o arquivo `index.html` no seu navegador.
+
+## 💡 Observações
+
+- As imagens das tecnologias mantêm suas cores originais, independente do tema escolhido.
+- O projeto é totalmente responsivo e pode ser visualizado em qualquer dispositivo.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+Desenvolvido por Swetony
